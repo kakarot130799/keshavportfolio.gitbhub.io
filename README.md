@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | Business Analyst
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, Machine Learning, Data Modelling, TensorFlow, NumPy, Pandas, Scikit-learn, Deep Learning, Neural Networks, Keras
 
