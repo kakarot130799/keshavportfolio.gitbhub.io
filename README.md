@@ -3,13 +3,10 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, Machine Learning, Data Modelling, TensorFlow, NumPy, Pandas, Scikit-learn, Deep Learning, Neural Networks, Keras
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-MSc. Management | University of Birmingham | 2023-2024 	 	 	 	 	 	                     
+- MSc. Management | University of Birmingham | 2023-2024 	 	 	 	 	 	                     
 •	Key Modules: Digital and Business Analytics, Organisational Decision Making and Operations Management, Sustainable and Responsible Business Practices, Corporate Entrepreneurship and Innovation.
 
-B. Tech in Information Science and Engineering | BMS College of Engineering | 2018-2022 
+- B. Tech in Information Science and Engineering | BMS College of Engineering | 2018-2022 
 •	Key Modules: Machine Learning, Database Management Systems, Big Data Analytics, Data Structures, Artificial Intelligence, Cloud Computing, Statistics and Discrete Mathematics.
 •	Grade obtained: 8.20 GPA
 
