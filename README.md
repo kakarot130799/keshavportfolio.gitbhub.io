@@ -3,21 +3,31 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, Machine Learning, Data Modelling, TensorFlow, NumPy, Pandas, Scikit-learn, Deep Learning, Neural Networks, Keras
 
 ## Education
-- MSc. Management | University of Birmingham | 2023-2024 	 	 	 	 	 	                     
+** - MSc. Management | University of Birmingham | 2023-2024** 	 	 	 	 	 	                     
 •	Key Modules: Digital and Business Analytics, Organisational Decision Making and Operations Management, Sustainable and Responsible Business Practices, Corporate Entrepreneurship and Innovation.
 
-- B. Tech in Information Science and Engineering | BMS College of Engineering | 2018-2022 
+**- B. Tech in Information Science and Engineering | BMS College of Engineering | 2018-2022**
 •	Key Modules: Machine Learning, Database Management Systems, Big Data Analytics, Data Structures, Artificial Intelligence, Cloud Computing, Statistics and Discrete Mathematics.
 •	Grade obtained: 8.20 GPA
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Co-Founder @ Cargo Link | New Delhi, India (_June 2023 - July 2024)**
+•	Designed scalable web architecture on AWS, further cutting operational costs and boosting deployment efficiency. Skills Utilized: AWS Code pipeline, AWS ECS, CloudFront and Docker/AWS Kubernetes.
+•	Developed ERP features (Route planner) using machine learning techniques like genetic algorithms and decision trees to reduce transportation costs by 20% and improve delivery times. Skills Utilized: Data Modelling, Statistical Analysis, Python, Pandas, NumPy.
+•	Led the business analytics function, utilizing Python and Tableau to create actionable data visualizations, directly contributing to a 5%-6% reduction in outsourcing costs by providing insights that streamlined internal processes. Skills Utilized: Data Visualization, Business Intelligence (Tableau, Excel), Problem Solving, Strategic planning.
+•	Automated customer service with a GPT-powered chatbot, reducing response times by days and attention to queries 3 times faster, improving customer and client satisfaction. Skills Utilised: TensorFlow, Keras, Natural Language Processing (NLP), Scikit-learn, AI Development (Hugging Face Transformers, GPT).
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist @ Actuartech | London, UK (_June 2022 - June 2023_)**
+•	Developed automated KPIs using Python, and Streamlit, managing the full project lifecycle from concept to deployment, reducing data handling time and reducing the frequency of necessary checks to only 20%. Skills Utilised: ETL/ELT, Data Pipelines, Business Intelligence (Power BI, Python, Streamlit).
+•	Enhanced life insurance framework using reinforcement learning, optimized model training processes to efficiently utilize AWS resources achieving a 50% reduction in runtime and ensuring IFRS 17 compliance. Skills Utilised: Machine Learning, Deep Learning Applications (TensorFlow, PyTorch), Cloud-AWS Kubernetes (EKS) and AWS SageMaker.
+•	Developed automated data integration processes using Lambda for ETL jobs and RDS for data management, along with APIs for data feeding, resulting in a savings of over 200 hours/month of team labour. Skills Utilised: Cloud- (AWS Lambda, AWS RDS, GCP), Python, API Integration (Google APIs).
+
+**Developer Internship @ Actuartech | London, UK (_December 2021 - June 2022_)**
+•	Developed and launched a SQL & R training course, using technical knowledge to create content and collaborating in marketing effort, making it the third most popular offering on the platform within 3 months. Skills Utilised: Programming (SQL, R), Salesforce, Team Collaboration.
+
+**Business Analyst | Internship @ Starlink Logistics Pvt Ltd | New Delhi, India (_June 2020 - September 2020_)**
+•	Analysed 5 years of data using advanced data analysis in Python and Excel, coupled with business intelligence insights from Tableau, leading to a 15% cut in resource use and improved decision making. Skills Utilised: Data Analysis (Python, Excel), Business Intelligence and visualisation (Tableau).
+•	Led the implementation of a new KPI system by collaborating with departments for data collection and using Tableau for analysis and dashboard creation, enhancing operational efficiency. Skills Utilised: Data Visualization, Project Management, Business Intelligence (Tableau, Excel), Cross team collaboration.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
